@@ -1,1 +1,1 @@
-Website source for Coral Monitoring at LPCUWC.
+Website source for coronavirus awareness and prevention.

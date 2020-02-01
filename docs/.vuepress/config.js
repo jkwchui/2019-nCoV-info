@@ -2,7 +2,7 @@ const moment = require('moment');
 const path = require("path");
 
 module.exports = {
-    title: 'Coral Monitoring LPCUWC-HK',
+    title: 'Coronavirus Info & Prevention',
     description: '',
     docsDir: 'docs',
     transpileDependencies: [
@@ -29,7 +29,7 @@ module.exports = {
         // As a special case, the default locale can use '/' as its path.
         '/': {
             lang: 'en', // this will be set as the lang attribute on <html>
-            title: 'Coral Monitoring LPCUWC-HK',
+            title: '2019-nCoV Coronavirus Info & Prevention',
             description: ''
         },
         // '/zh-S/': {
@@ -39,7 +39,7 @@ module.exports = {
         // },
         '/zh/': {
             lang: 'zh-Hant',
-            title: '珊瑚觀察 - 香港聯合世界書院',
+            title: '2019 新型冠狀病毒預防資訊',
             description: ''
         },
     },
@@ -61,16 +61,16 @@ module.exports = {
                     }
                 },
                 nav: [{
-                        text: 'About',
-                        link: '/about/'
+                        text: 'Info',
+                        link: '/info/'
                     },
                     {
                         text: 'Data',
                         link: '/data/'
                     },
                     {
-                        text: 'Apply',
-                        link: '/apply/'
+                        text: 'Map',
+                        link: '/map/'
                     },
                     // {
                     //     text: 'Organizations',
@@ -83,41 +83,19 @@ module.exports = {
                 ],
                 sidebarDepth: 1,
                 sidebar: {
-                    '/about/': [
-                        ['./', 'About'],
+                    '/info/': [
+                        ['./', 'Intro Video'],
                         {
-                            title: 'What we do',
+                            title: 'Information',
                             collapsable: false,
-                            children: [
-                                ['./protocols/', "Protocols"],
-                                ['./training/', 'Training'],
-                                ['./funding/', 'Funding'],
-                                ['./team/', 'The Team'],
-                                ['./history/', 'History'],
-                            ],
                         },
                     ],
                     '/data/': [{
-                            title: '',
-                            collapsable: false,
-                            children: [
-                                ['./', 'Description'],
-                                ['./visuals/', 'Visual']
-                                ['./stat/', 'Statistical'],
-                            ],
-                        },
-                        {
-                            title: 'Past Reports',
-                            collapsable: false,
-                            children: [
-                                ['./reports/2008/', '2008'],
-                                // ['./obs/gear/', 'Gear'],
-                                ['./reports/2014-17/', '2014-17']
-                            ],
-                        },
-                    ],
-                    '/apply/': [{
-                        title: 'How to Apply',
+                        title: '',
+                        collapsable: false,
+                    }, ],
+                    '/map/': [{
+                        title: 'Map',
                         collapsable: true,
                     }],
                     '/resources/': [{
@@ -127,85 +105,6 @@ module.exports = {
                             ['./', 'Resources'],
                             ['./downloads/', 'Downloads'],
                             ['./tutorials/', 'Tutorials'],
-                            ['./partners/', 'Partners'],
-                        ],
-                    }],
-                },
-            },
-
-            '/': {
-                // text for the language dropdown
-                selectText: '💬 Languages 語言',
-                // label for this locale in the language dropdown
-                label: 'Eng 🇬🇧🇺🇸🇨🇦🇦🇺',
-                // text for the edit-on-github link
-                // editLinkText: 'Edit this page on GitHub',
-                // config for Service Worker 
-                serviceWorker: {
-                    updatePopup: {
-                        message: "Updates available",
-                        buttonText: "Refresh"
-                    }
-                },
-                nav: [{
-                        text: 'about',
-                        link: '/about/'
-                    },
-                    {
-                        text: 'Data',
-                        link: '/data/'
-                    },
-                    {
-                        text: 'Apply',
-                        link: '/apply/'
-                    },
-                    // {
-                    //     text: 'Organizations',
-                    //     link: '/org/'
-                    // },
-                    {
-                        text: 'Resources',
-                        link: '/resources/'
-                    },
-                ],
-                sidebarDepth: 1,
-                sidebar: {
-                    '/about/': [
-                        ['./', 'about'],
-                        {
-                            title: 'What we do',
-                            collapsable: false,
-                            children: [
-                                ['./protocols/', "Protocols"],
-                                ['./training/', 'Training'],
-                                ['./funding/', 'Funding'],
-                                ['./team/', 'The Team'],
-                                ['./history/', 'History'],
-                            ],
-                        },
-                    ],
-                    '/data/': [{
-                        title: 'Data Description',
-                        collapsable: false,
-                        children: [
-                            ['./', 'Description'],
-                            ['./visuals/', 'Visual'],
-                            ['./stat/', 'Statistical'],
-                            ['./reports/', 'Past Reports'],
-                        ],
-                    }],
-                    '/apply/': [{
-                        title: 'How to Apply',
-                        collapsable: false,
-                    }],
-                    '/resources/': [{
-                        title: 'Resources',
-                        collapsable: true,
-                        children: [
-                            ['./', 'Resources'],
-                            ['./downloads/', 'Downloads'],
-                            ['./tutorials/', 'Tutorials'],
-                            ['./partners/', 'Partners'],
                         ],
                     }],
                 },
