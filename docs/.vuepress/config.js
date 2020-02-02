@@ -29,7 +29,7 @@ module.exports = {
         // As a special case, the default locale can use '/' as its path.
         '/': {
             lang: 'en', // this will be set as the lang attribute on <html>
-            title: '2019-nCoV Coronavirus Info & Prevention',
+            title: '2019-nCoV Awareness',
             description: ''
         },
         // '/zh-S/': {
@@ -39,7 +39,7 @@ module.exports = {
         // },
         '/zh/': {
             lang: 'zh-Hant',
-            title: '2019 新型冠狀病毒預防資訊',
+            title: '新型冠狀病毒預防資訊',
             description: ''
         },
     },
