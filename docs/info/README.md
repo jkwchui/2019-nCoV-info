@@ -2,6 +2,23 @@
 
 <!-- [[TOC]] -->
 
+| Language      |           | Subtitle | Narration |  Last updated  |
+|---------------|-----------|:--------:|:---------:|:--------------:|
+| English       |           |    ✓     |     ✓     |   2020.02.02   |
+| 粵語          | Cantonese |    ✓     |     ✓     |   2020.02.02   |
+| 漢語、普通話   | Mandarin  |    ✓     |     ✓     |   2020.02.02   |
+| 한국말           | Korean    |    ✓     |     ✓     | **2020.01.29** |
+| ภาษาไทย       | Thai      |    ✓     |     ✓     |   2020.02.02   |
+| Tagalog       |           |    ✓     |     ✓     |   2020.02.02   |
+| Español       | Spanish   |    ✓     |     ✓     |   2020.02.02   |
+| Portugues     |           |    ✓     |     ✓     | **2020.01.29** |
+| Italiano      |           |    ✓     |     ✓     |   2020.02.02   |
+| اللغة العربية | Arabic    |    ✓     |           | **2020.01.29** |
+| монгол        | Mongolian |    ✓     |           | **2020.01.29** |
+|               |           |          |           |   2020.02.02   |
+|               |           |          |           |   2020.02.02   |
+|               |           |          |           |   2020.02.02   |
+
 ## English
 
 The Wuhan Pneumonia has spread from Hubei province and becomes a global concern.  This short video describes the outbreak and viral characteristics, and actions you can take to prevent its spread.  This video is available in different languages.
