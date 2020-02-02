@@ -20,12 +20,6 @@ The Wuhan Pneumonia has spread from Hubei province and becomes a global concern.
 
 @[vimeo](387898930)
 
-## اللغة العربية (Arabic)
-
-2019-nCoV معلومات ومكافحة فيروس كورونا
-
-@[vimeo](388515216)
-
 ## 한국말 (Korean)
 
 우한 신종 코로나바이러스는 후베이 지방에서 시작하여  이제는 전세계의 문제가 되었습니다. 이 동영상은 신종코로나바이러스의 발생, 중요한 특징, 와 대응 방밥에 대해 알려 줍니다.
@@ -64,6 +58,26 @@ La polmonite di Wuhan si è diffusa dalla provincia di Hubei ed è diventando un
 
 @[vimeo](388161104)
 
-All of these videos can be downloaded from this Google Drive folder, if you need the original to be uploaded elsewhere.  You do not need to ask for permission to do that.
+## اللغة العربية (Arabic)
 
-https://drive.google.com/drive/folders/1ovaUk8P0MKfbVPbCMcFhdRTP5exTyZiY?usp=sharing
+::: warning Voice Over Request
+
+This video only has subtitles and no narration.  If you are a native speaker and have access to a quiet environment and a microphone, please consider helping recording through <a href="mailto:jon@lpcuwc.edu.hk">email contact</a>.
+
+:::
+
+2019-nCoV معلومات ومكافحة فيروس كورونا
+
+@[vimeo](388515216)
+
+## монгол Mongolian
+
+::: warning Voice Over Request
+
+This video only has subtitles and no narration.  If you are a native speaker and have access to a quiet environment and a microphone, please consider helping recording through <a href="mailto:jon@lpcuwc.edu.hk">email contact</a>.
+
+:::
+
+2019-nCoV өвчний урьдчилан сэргийлэх, урьдчилан сэргийлэх
+
+@[vimeo](388128544)
