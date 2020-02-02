@@ -101,3 +101,4 @@ Translation by Jojo & Dolores
 #### Japanese
 
 Translation by Noriko Numamoto / Sogo Araki / Yurika Uemura
+
