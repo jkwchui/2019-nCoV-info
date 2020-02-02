@@ -25,6 +25,12 @@ The Wuhan Pneumonia has spread from Hubei province and becomes a global concern.
 
 @[vimeo](387690442)
 
+### Editor's Notes
+
+* Prevention recommendations are ordered in terms of likelihood and importance.  The two most important prevention strategy, requiring minimal supplies, is **washing hands frequently**, and **NOT touching face with dirty hands**.
+* The gloves are recommendation from [Laurie Garrett](https://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/), a science writer who have been traveling to the frontlines during many infectious disease episodes (and live long enough to tell about it).  They are not strict barriers, and more a reminder of what is clean vs what is dirty.
+
+
 ## 粵語 / 繁體中文 (Cantonese / Traditional Chinese)
 
 武漢肺炎疫情已經擴散至全球各地。這條短片簡單介紹病毒特徵，以及大家可以做的公共衛生措施。 在右上方「語言」可以選擇繁體中文參觀更多有關武漢肺炎疫情及公共衛生資訊。
