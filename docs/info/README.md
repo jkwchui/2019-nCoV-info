@@ -15,7 +15,7 @@
 | Italiano      |           |    ✓     |     ✓     |   2020.02.02   |
 | اللغة العربية | Arabic    |    ✓     |           | **2020.01.29** |
 | монгол        | Mongolian |    ✓     |           | **2020.01.29** |
-|               |           |          |           |   2020.02.02   |
+| Tetum         |           |    ✓     |     ✓     |   2020.02.02   |
 |               |           |          |           |   2020.02.02   |
 |               |           |          |           |   2020.02.02   |
 
@@ -28,8 +28,8 @@ The Wuhan Pneumonia has spread from Hubei province and becomes a global concern.
 ### Editor's Notes
 
 * Prevention recommendations are ordered in terms of likelihood and importance.  The two most important prevention strategy, requiring minimal supplies, is **washing hands frequently**, and **NOT touching face with dirty hands**.
-* The gloves are recommendation from [Laurie Garrett](https://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/), a science writer who have been traveling to the frontlines during many infectious disease episodes (and live long enough to tell about it).  They are not strict barriers, and more a reminder of what is clean vs what is dirty.
-
+* The gloves are recommendation from [Laurie Garrett](https://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/), a science writer who have been traveling to the frontlines during many infectious disease episodes (and live long enough to tell about it).  Day-to-day gloves are not strict barriers, and more a reminder that hands before cleaning are dirty.
+* If you are sick, masks are essential in preventing the spread through coughing.  If you are not sick, staying a safe distance (1 m) is sufficient to prevent droplets.
 
 ## 粵語 / 繁體中文 (Cantonese / Traditional Chinese)
 
@@ -74,6 +74,12 @@ El nuevo coronavirus que surgió en Wuhan se ha extendido desde la provincia chi
 O novo coronavírus que surgiu em Wuhan se disseminou da província chinesa de Hubei e se tornou uma preocupação global. Este breve vídeo descreve o surto e as características virais da doença e as ações que você pode executar para impedir sua propagação.
 
 @[vimeo](387874119)
+
+## Tetum
+
+The Wuhan Pneumonia has spread from Hubei province and becomes a global concern.  This short video describes the outbreak and viral characteristics, and actions you can take to prevent its spread.  This video is available in different languages.
+
+@[vimeo](388814123)
 
 ## Italiano (Italian)
 
