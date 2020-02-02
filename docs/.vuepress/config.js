@@ -232,7 +232,7 @@ module.exports = {
         [
             '@vuepress/google-analytics',
             {
-                'ga': 'UA-134636637-2' // UA-00000000-0
+                'ga': 'UA-134636637-3' // UA-00000000-0
             }
         ],
         {
