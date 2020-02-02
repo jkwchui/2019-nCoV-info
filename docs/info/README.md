@@ -116,3 +116,46 @@ This video only has subtitles and no narration.  If you are a native speaker and
 2019-nCoV өвчний урьдчилан сэргийлэх, урьдчилан сэргийлэх
 
 @[vimeo](388128544)
+
+# In-progress
+
+## Sinhala
+
+Has translation + voice over.  Video editing in progress.
+
+## Amharic
+
+Has translation + voice over.  Video editing in progress.
+
+## Sesotho
+
+Has translation + voice over.  Video editing in progress.
+
+## Burmese
+
+Has translation, no v.o..  Awaits slower En narrated version.
+
+## Japanese
+
+Has translation, no v.o..  Awaits slower En narrated version.
+
+## French
+
+Has translation, no v.o..  Awaits slower En narrated version.
+
+## German
+
+Has translation, no v.o..  Awaits slower En narrated version.
+
+## Russian
+
+Has translation, no v.o..  Awaits slower En narrated version.
+
+## Hebrew
+
+Has translation, no v.o..  Awaits slower En narrated version.
+
+## Finnish
+
+Has translation, no v.o..  Awaits slower En narrated version.
+
