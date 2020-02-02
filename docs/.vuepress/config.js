@@ -65,10 +65,6 @@ module.exports = {
                         link: '/info/'
                     },
                     {
-                        text: 'Data',
-                        link: '/data/'
-                    },
-                    {
                         text: 'Map',
                         link: '/map/'
                     },
@@ -80,8 +76,12 @@ module.exports = {
                         text: 'Resources',
                         link: '/resources/'
                     },
+                    {
+                        text: 'Credits',
+                        link: '/credits/'
+                    },
                 ],
-                sidebarDepth: 1,
+                sidebarDepth: 2,
                 sidebar: {
                     '/info/': [
                         ['./', 'Intro Video'],
@@ -90,10 +90,6 @@ module.exports = {
                             collapsable: false,
                         },
                     ],
-                    '/data/': [{
-                        title: '',
-                        collapsable: false,
-                    }, ],
                     '/map/': [{
                         title: 'Map',
                         collapsable: true,
@@ -107,6 +103,11 @@ module.exports = {
                             ['./tutorials/', 'Tutorials'],
                         ],
                     }],
+                    '/credits/': [{
+                        title: 'Credits',
+                        collapsable: true,
+                        sidebarDepth: 3
+                    }, ],
                 },
             },
 
