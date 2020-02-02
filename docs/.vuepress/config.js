@@ -220,15 +220,15 @@ module.exports = {
         '@vuepress/active-header-links',
         // '@vuepress/medium-zoom',
         '@vuepress/back-to-top',
-        {
-            '@vuepress/pwa': {
-                serviceWorker: true,
-                updatePopup: {
-                    message: "有可更新項目",
-                    buttonText: "更新頁面"
-                }
-            }
-        },
+        // {
+        //     '@vuepress/pwa': {
+        //         serviceWorker: true,
+        //         updatePopup: {
+        //             message: "有可更新項目",
+        //             buttonText: "更新頁面"
+        //         }
+        //     }
+        // },
         [
             '@vuepress/google-analytics',
             {
