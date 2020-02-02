@@ -69,23 +69,29 @@ El nuevo coronavirus que surgió en Wuhan se ha extendido desde la provincia chi
 
 @[vimeo](388446751)
 
+## Italiano (Italian)
+
+La polmonite di Wuhan si è diffusa dalla provincia di Hubei ed è diventando una minaccia di portata globale. Questo breve video descrive lo scoppio dell'epidemia, le caratteristiche virali del virus, e le azioni che tu stesso puoi prendere per impedire la sua diffusione 
+
+@[vimeo](388161104)
+
 ## Portuguese (Portugues)
 
 O novo coronavírus que surgiu em Wuhan se disseminou da província chinesa de Hubei e se tornou uma preocupação global. Este breve vídeo descreve o surto e as características virais da doença e as ações que você pode executar para impedir sua propagação.
 
 @[vimeo](387874119)
 
+## Sinhala
+
+The Wuhan Pneumonia has spread from Hubei province and becomes a global concern.  This short video describes the outbreak and viral characteristics, and actions you can take to prevent its spread.
+
+@[vimeo]()
+
 ## Tetum
 
-The Wuhan Pneumonia has spread from Hubei province and becomes a global concern.  This short video describes the outbreak and viral characteristics, and actions you can take to prevent its spread.  This video is available in different languages.
+Moras Pneumonia (Pulmaun) husi Wuhan espalla ka transmite ona husi provinsia Hubei no sai ona prekupasaun global. Video badak ida ne'e esplika katastrofe,  karakteristika virus nian no asaun ne'ebe ita bele foti hodi prevene no labele daet ba ema seluk.  Video ida ne'e bele assesu iha lian oi-oin.
 
 @[vimeo](388814123)
-
-## Italiano (Italian)
-
-La polmonite di Wuhan si è diffusa dalla provincia di Hubei ed è diventando una minaccia di portata globale. Questo breve video descrive lo scoppio dell'epidemia, le caratteristiche virali del virus, e le azioni che tu stesso puoi prendere per impedire la sua diffusione 
-
-@[vimeo](388161104)
 
 ## اللغة العربية (Arabic)
 
