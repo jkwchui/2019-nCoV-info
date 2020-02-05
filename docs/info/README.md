@@ -70,7 +70,11 @@ O novo coronavírus que surgiu em Wuhan se disseminou da província chinesa de H
 
 La pneumonie de Wuhan s'est propagée de la province du Hubei et est maintenant une préoccupation mondiale. Cette courte vidéo décrit l'épidémie et les caractéristiques virales, ainsi que les mesures que vous pouvez prendre pour empêcher sa propagation.
 
-@[vimeo](https://vimeo.com/389208525)
+@[vimeo](389208525)
+
+### Bahasa Indonesia
+
+@[vimeo](389509120)
 
 ### සිංහල (Sinhala)
 

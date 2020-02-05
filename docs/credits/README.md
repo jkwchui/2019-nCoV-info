@@ -18,7 +18,7 @@ Data was compiled by Nathan Ruser (OSINT / Australia) & Abraham Leung (Hong Kong
 
 Scripting by Pi Ko and Andrew Leung (梁敬熙).  Filming by 梁敬熙.  Script was reviewed by Dr Kathy Chan and another doctor that prefers to remain anonymous, as well as people in the Telegram WuFlu Monitoring channel.
 
-Acting by Manu Kamerbeek, Flavia Trotolo, Sylvain Zong-Naba, Isabella Stratta, and Mica & Sol Sanchez Pulverini.
+Acting by Manu Kamerbeek, Flavia Trotolo, Sylvain Zong-Naba, Isabella Stratta, Donald Chow,and Mica & Sol Sanchez Pulverini.
 
 ### Localizations
 
@@ -104,4 +104,5 @@ Translation by Noriko Numamoto / Sogo Araki / Yurika Uemura
 
 #### Bahasa Indonesia
 
-Translation and voice over by Cipto Yuwono
+Translation and voice over by Cipto Yuwono.
+
