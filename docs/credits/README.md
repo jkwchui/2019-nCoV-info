@@ -10,7 +10,7 @@ A large number of people from around the world contributed their expertise on sh
 
 ## Data & Map
 
-Data was compiled by Nathan Ruser (OSINT / Australia) & Abe (Hong Kong).
+Data was compiled by Nathan Ruser (OSINT / Australia) & Abraham Leung (Hong Kong).
 
 ## Awareness Video
 
@@ -80,7 +80,7 @@ Translation by ሳሚያ (Samiya Mehammed)
 
 #### Sesotho
 
-Translation by Ithabeleng Makhetha
+Translation and voice over by Ithabeleng Makhetha
 
 #### Finnish
 
@@ -102,3 +102,6 @@ Translation by Jojo & Dolores
 
 Translation by Noriko Numamoto / Sogo Araki / Yurika Uemura
 
+#### Bahasa Indonesia
+
+Translation and voice over by Cipto Yuwono
