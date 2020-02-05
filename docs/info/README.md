@@ -2,23 +2,6 @@
 
 <!-- [[TOC]] -->
 
-| Language      |           | Subtitle | Narration |  Last updated  |
-|---------------|-----------|:--------:|:---------:|:--------------:|
-| English       |           |    ✓     |     ✓     |   2020.02.02   |
-| 粵語          | Cantonese |    ✓     |     ✓     |   2020.02.02   |
-| 漢語、普通話   | Mandarin  |    ✓     |     ✓     |   2020.02.02   |
-| 한국말           | Korean    |    ✓     |     ✓     | **2020.01.29** |
-| ภาษาไทย       | Thai      |    ✓     |     ✓     |   2020.02.02   |
-| Tagalog       |           |    ✓     |     ✓     |   2020.02.02   |
-| Español       | Spanish   |    ✓     |     ✓     |   2020.02.02   |
-| Portugues     |           |    ✓     |     ✓     | **2020.01.29** |
-| Italiano      |           |    ✓     |     ✓     |   2020.02.02   |
-| اللغة العربية | Arabic    |    ✓     |           | **2020.01.29** |
-| монгол        | Mongolian |    ✓     |           | **2020.01.29** |
-| Tetum         |           |    ✓     |     ✓     |   2020.02.02   |
-|               |           |          |           |   2020.02.02   |
-|               |           |          |           |   2020.02.02   |
-
 ## English
 
 The Wuhan Pneumonia has spread from Hubei province and becomes a global concern.  This short video describes the outbreak and viral characteristics, and actions you can take to prevent its spread.  This video is available in different languages.
@@ -81,11 +64,17 @@ O novo coronavírus que surgiu em Wuhan se disseminou da província chinesa de H
 
 @[vimeo](387874119)
 
-## Sinhala
+## Français (French)
+
+La pneumonie de Wuhan s'est propagée de la province du Hubei et est maintenant une préoccupation mondiale. Cette courte vidéo décrit l'épidémie et les caractéristiques virales, ainsi que les mesures que vous pouvez prendre pour empêcher sa propagation.
+
+@[vimeo](https://vimeo.com/389208525)
+
+## සිංහල (Sinhala)
 
 The Wuhan Pneumonia has spread from Hubei province and becomes a global concern.  This short video describes the outbreak and viral characteristics, and actions you can take to prevent its spread.
 
-@[vimeo]()
+@[vimeo](389218027)
 
 ## Tetum
 
@@ -93,25 +82,21 @@ Moras Pneumonia (Pulmaun) husi Wuhan espalla ka transmite ona husi provinsia Hub
 
 @[vimeo](388814123)
 
-## اللغة العربية (Arabic)
+# Subtitled videos
 
 ::: warning Voice Over Request
 
-This video only has subtitles and no narration.  If you are a native speaker and have access to a quiet environment and a microphone, please consider helping recording through <a href="mailto:jon@lpcuwc.edu.hk">email contact</a>.
+These video currently has subtitles and narrationin English.  If you are a native speaker and have access to a quiet environment and a microphone, please consider helping recording through <a href="mailto:jon@lpcuwc.edu.hk">email contact</a>.
 
 :::
+
+## اللغة العربية (Arabic)
 
 2019-nCoV معلومات ومكافحة فيروس كورونا
 
 @[vimeo](388515216)
 
 ## монгол Mongolian
-
-::: warning Voice Over Request
-
-This video only has subtitles and no narration.  If you are a native speaker and have access to a quiet environment and a microphone, please consider helping recording through <a href="mailto:jon@lpcuwc.edu.hk">email contact</a>.
-
-:::
 
 2019-nCoV өвчний урьдчилан сэргийлэх, урьдчилан сэргийлэх
 
@@ -139,9 +124,7 @@ Has translation, no v.o..  Awaits slower En narrated version.
 
 Has translation, no v.o..  Awaits slower En narrated version.
 
-## French
 
-Has translation, no v.o..  Awaits slower En narrated version.
 
 ## German
 
@@ -157,5 +140,26 @@ Has translation, no v.o..  Awaits slower En narrated version.
 
 ## Finnish
 
+# Update status
+
 Has translation, no v.o..  Awaits slower En narrated version.
 
+| Language      |           | Subtitle | Narration |  Last updated  |
+|---------------|-----------|:--------:|:---------:|:--------------:|
+| English       |           |    ✓     |     ✓     |   2020.02.02   |
+| 粵語          | Cantonese |    ✓     |     ✓     |   2020.02.02   |
+| 漢語、普通話   | Mandarin  |    ✓     |     ✓     |   2020.02.02   |
+| 한국말           | Korean    |    ✓     |     ✓     | **2020.01.29** |
+| ภาษาไทย       | Thai      |    ✓     |     ✓     |   2020.02.02   |
+| Tagalog       |           |    ✓     |     ✓     |   2020.02.02   |
+| Español       | Spanish   |    ✓     |     ✓     |   2020.02.02   |
+| Portugues     |           |    ✓     |     ✓     | **2020.01.29** |
+| Italiano      |           |    ✓     |     ✓     |   2020.02.02   |
+| Tetum         |           |    ✓     |     ✓     |   2020.02.02   |
+| Français      | French    |    ✓     |     ✓     |   2020.02.02   |
+| සිංහල         | Sinhala   |    ✓     |     ✓     |   2020.02.02   |
+| اللغة العربية | Arabic    |    ✓     |           | **2020.01.29** |
+| монгол        | Mongolian |    ✓     |           | **2020.01.29** |
+|               |           |          |           |   2020.02.02   |
+|               |           |          |           |   2020.02.02   |
+|               |           |          |           |   2020.02.02   |
