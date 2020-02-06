@@ -72,7 +72,7 @@ Translation by Dafna Bar Lev
 
 #### Sinhala
 
-Translation by සුතිර ද සිල්වා (Suthira de Silva)
+Translation and voice over by සුතිර ද සිල්වා (Suthira de Silva)
 
 #### Amharic
 
@@ -100,8 +100,8 @@ Translation by Jojo & Dolores
 
 #### Japanese
 
-Translation by Noriko Numamoto / Sogo Araki / Yurika Uemura
-
+Translation by 沼本宜子 Noriko Numamoto, 荒木創吾 Sogo Araki, and 植村ゆり香 Yurika Uemura.  Voice over by 荒木創吾 Sogo Araki.
+  
 #### Bahasa Indonesia
 
 Translation and voice over by Cipto Yuwono.

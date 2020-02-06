@@ -34,6 +34,10 @@ The Wuhan Pneumonia has spread from Hubei province and becomes a global concern.
 
 @[vimeo](387978851)
 
+### Japanese
+
+@[vimeo](389638060)
+
 ### ภาษาไทย (Thai)
 
 2019-nCoV ข้อมูลที่ควรรู้และวิธีป้องกันตัวเองจาก ไวรัสโคโรน่าสายพันธุ์ใหม่
@@ -78,7 +82,7 @@ La pneumonie de Wuhan s'est propagée de la province du Hubei et est maintenant 
 
 ### සිංහල (Sinhala)
 
-The Wuhan Pneumonia has spread from Hubei province and becomes a global concern.  This short video describes the outbreak and viral characteristics, and actions you can take to prevent its spread.
+වුහාන් වෛරසය හුබෙයි පළාතෙන් ව්‍යාප්ත වී ඇති අතර එය ගෝලීය ගැටලුවක් බවට පත්ව ඇත. මෙම කෙටි වීඩියෝවෙන් එම වෛරසය පිළිබඳවත්, එහි ලක්ෂණ පිළිබඳවත්, ඔබට ඉන් ආරක්ෂා වීමට ගත හැකි ක්‍රියාමාර්ග පිළිබඳවත් විස්තර කරයි.
 
 @[vimeo](389218027)
 
@@ -89,6 +93,8 @@ Moras Pneumonia (Pulmaun) husi Wuhan espalla ka transmite ona husi provinsia Hub
 @[vimeo](388814123)
 
 ### Sesotho
+
+Pneumonia ea Wuhan e phatlalalitsoe ho tsoa seterekeng sa Hubei 'me ea fetoha ngongoreho ea lefats'e.Video ena e khuts'oane e hlalosa ho phahloha le lits'obotsi tsa Kokoana-Hloko ena,le liketso tseo Oka li nkang ho thibela ho ata ha eona.
 
 @[vimeo](389475921)
 
@@ -122,10 +128,6 @@ Has translation + voice over.  Video editing in progress.
 
 Has translation, no v.o..  Awaits slower En narrated version.
 
-### Japanese
-
-Has translation, no v.o..  Awaits slower En narrated version.
-
 ### German
 
 Has translation, no v.o..  Awaits slower En narrated version.
@@ -144,22 +146,25 @@ Has translation, no v.o..  Awaits slower En narrated version.
 
 Has translation, no v.o..  Awaits slower En narrated version.
 
-| Language      |           | Subtitle | Narration |  Last updated  |
-|---------------|-----------|:--------:|:---------:|:--------------:|
-| English       |           |    ✓     |     ✓     |   2020.02.02   |
-| 粵語          | Cantonese |    ✓     |     ✓     |   2020.02.02   |
-| 漢語、普通話   | Mandarin  |    ✓     |     ✓     |   2020.02.02   |
-| 한국말           | Korean    |    ✓     |     ✓     | **2020.01.29** |
-| ภาษาไทย       | Thai      |    ✓     |     ✓     |   2020.02.02   |
-| Tagalog       |           |    ✓     |     ✓     |   2020.02.02   |
-| Español       | Spanish   |    ✓     |     ✓     |   2020.02.02   |
-| Portugues     |           |    ✓     |     ✓     | **2020.01.29** |
-| Italiano      |           |    ✓     |     ✓     |   2020.02.02   |
-| Tetum         |           |    ✓     |     ✓     |   2020.02.02   |
-| Français      | French    |    ✓     |     ✓     |   2020.02.02   |
-| සිංහල         | Sinhala   |    ✓     |     ✓     |   2020.02.02   |
-| اللغة العربية | Arabic    |    ✓     |           | **2020.01.29** |
-| монгол        | Mongolian |    ✓     |           | **2020.01.29** |
-| Sesotho       |           |    ✓     |     ✓     |   2020.02.02   |
-|               |           |          |           |   2020.02.02   |
-|               |           |          |           |   2020.02.02   |
+| Language         |           | Subtitle | Narration |  Last updated  |
+|------------------|-----------|:--------:|:---------:|:--------------:|
+| English          |           |    ✓     |     ✓     |   2020.02.02   |
+| 粵語             | Cantonese |    ✓     |     ✓     |   2020.02.02   |
+| 漢語、普通話      | Mandarin  |    ✓     |     ✓     |   2020.02.02   |
+| 한국말              | Korean    |    ✓     |     ✓     | **2020.01.29** |
+| ภาษาไทย          | Thai      |    ✓     |     ✓     |   2020.02.02   |
+| Tagalog          |           |    ✓     |     ✓     |   2020.02.02   |
+| Español          | Spanish   |    ✓     |     ✓     |   2020.02.02   |
+| Portugues        |           |    ✓     |     ✓     | **2020.01.29** |
+| Italiano         |           |    ✓     |     ✓     |   2020.02.02   |
+| Tetum            |           |    ✓     |     ✓     |   2020.02.02   |
+| Français         | French    |    ✓     |     ✓     |   2020.02.02   |
+| සිංහල            | Sinhala   |    ✓     |     ✓     |   2020.02.02   |
+| اللغة العربية    | Arabic    |    ✓     |           | **2020.01.29** |
+| монгол           | Mongolian |    ✓     |           | **2020.01.29** |
+| Sesotho          |           |    ✓     |     ✓     |   2020.02.02   |
+| Bahasa Indonesia |           |    ✓     |     ✓     |   2020.02.02   |
+| 日本語           | Japanese  |    ✓     |     ✓     |   2020.02.02   |
+|                  |           |          |           |   2020.02.02   |
+|                  |           |          |           |   2020.02.02   |
+|                  |           |          |           |   2020.02.02   |
