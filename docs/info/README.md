@@ -102,7 +102,7 @@ Pneumonia ea Wuhan e phatlalalitsoe ho tsoa seterekeng sa Hubei 'me ea fetoha ng
 
 ::: warning Voice Over Request
 
-These video currently has subtitles and narrationin English.  If you are a native speaker and have access to a quiet environment and a microphone, please consider helping recording through <a href="mailto:jon@lpcuwc.edu.hk">email contact</a>.
+These video currently has subtitles and narrationin English.  If you are a native speaker and have access to a quiet environment and a microphone, please consider helping recording by contacting *@hongkong103* on Telegram.
 
 :::
 
