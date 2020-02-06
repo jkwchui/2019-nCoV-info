@@ -88,15 +88,15 @@ Translation by Aino Hämäläinen
 
 #### Deutsch (German)
 
-Translation by Leyla Soysal, Masha Wille, Luzie Hugger
+Translation by Leyla Soysal, Masha Wille, and Luzie Hugger.
 
 #### Russian
 
-Translation by Eraj
+Translation by Eraj Uzoqov.
 
 #### Dalen Tetun
 
-Translation by Jojo & Dolores
+Translation by Justo Martins Freitas & Dolores Moniz Soares.
 
 #### Japanese
 
@@ -105,4 +105,3 @@ Translation by 沼本宜子 Noriko Numamoto, 荒木創吾 Sogo Araki, and 植村
 #### Bahasa Indonesia
 
 Translation and voice over by Cipto Yuwono.
-

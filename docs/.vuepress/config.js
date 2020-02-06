@@ -83,12 +83,23 @@ module.exports = {
                 ],
                 sidebarDepth: 2,
                 sidebar: {
-                    '/info/': [
-                        ['./', 'Intro Video'],
+                    '/info/': [{
+                            title: 'About',
+                            collapsable: false,
+                            children: [
+                                ['./story', 'Our Story'],
+                            ]
+                        },
                         {
                             title: 'Information',
                             collapsable: false,
+                            children: [
+                                ['./virus', 'Disease info'],
+                                ['./prevention', 'Prevention'],
+                                ['./', 'Video'],
+                            ]
                         },
+
                     ],
                     '/map/': [{
                         title: 'Map',
