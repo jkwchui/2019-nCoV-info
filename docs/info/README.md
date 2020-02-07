@@ -78,7 +78,10 @@ La pneumonie de Wuhan s'est propagée de la province du Hubei et est maintenant 
 
 ### Bahasa Indonesia
 
+Pneumonia Wuhan telah tersebar dari provinsi Hubei dan menjadi perhatian global. Video singkat ini menjelaskan wabah dan karakteristik virus, dan tindakan yang dapat Anda tempuh untuk mencegah penyebarannya.
+
 @[vimeo](389509120)
+@[youtube](cHFiMU1gVaY)
 
 ### සිංහල (Sinhala)
 
@@ -102,7 +105,7 @@ Pneumonia ea Wuhan e phatlalalitsoe ho tsoa seterekeng sa Hubei 'me ea fetoha ng
 
 ::: warning Voice Over Request
 
-These video currently has subtitles and narrationin English.  If you are a native speaker and have access to a quiet environment and a microphone, please consider helping recording by contacting *@hongkong103* on Telegram.
+These video currently has subtitles and narration in English.  If you are a native speaker and have access to a quiet environment and a microphone, please consider helping recording by contacting *@hongkong103* on Telegram.
 
 :::
 
